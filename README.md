@@ -1,5 +1,7 @@
 # SSH-Attack-Investigation-with-Guard-Duty.
 
+![Day 2 of Cloud Security](https://github.com/user-attachments/assets/dc4d6f4c-ac41-4812-86eb-572923cf182d)
+
 Day 2 focused on using Guard Duty and Detective to analyze an SSH brute force attack on an EC2 instance, strengthening incident response skills.
 
 Day 2 of #90 Days of Cloud Security.
